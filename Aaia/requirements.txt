@@ -5,7 +5,7 @@ pyjq==2.3.1
 urllib3==1.26.5
 
 # Dependencies required for Aaia data collector
-awscli==1.18.28
+awscli==2.7.24
 
 rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
 pyyaml>=5.4 # not directly required, pinned by Snyk to avoid a vulnerability
